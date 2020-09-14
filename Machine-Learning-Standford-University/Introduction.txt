@@ -1,0 +1,12 @@
+Introducción
+-------------
+En este repositorio se recogen las semanas del curso de Machine Learning impartido desde la plataforma Coursera, por Andrew Ng. 
+
+Este curso realiza una introducción a Machine Learning, incluye los siguientes temas:
+	- Aprendizaje supervisado (algoritmos paramétricos / no paramétricos, máquinas de vectores de soporte, 	kernels, redes neuronales). 
+	
+	- Aprendizaje no supervisado (agrupamiento, reducción de dimensionalidad, sistemas de recomendación, 		aprendizaje profundo). 
+	
+	- Prácticas en aprendizaje automático (teoría del sesgo / varianza). 
+Para que sea más fácil seguirlo, se irán subiendo los contenidos por semanas, para que más adelante sea sencillo acceder a la documentación explicada.
+	
